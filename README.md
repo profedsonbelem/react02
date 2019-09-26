@@ -12,4 +12,4 @@ create-react-app material-app
 npm start
 ```
 
-(https://www.youtube.com/watch?v=SNSTuXMXsYg) https://www.youtube.com/watch?v=SNSTuXMXsYg
+[Video Youtube](https://www.youtube.com/watch?v=SNSTuXMXsYg) https://www.youtube.com/watch?v=SNSTuXMXsYg
